@@ -10,8 +10,8 @@ Installation
 --------------
 
 - Clone project
-- Launch build: "docker build -t yougos666/apache ."
+- Launch build: "docker build -t yougos666/docker-apache ."
 
 Launch Docker container
 --------------
-docker run -d -p 80:80 yougos666/apache
+docker run -d -p 80:80 yougos666/docker-apache

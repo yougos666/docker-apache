@@ -1,4 +1,4 @@
-Docker for apache2
+Docker for apache2 & PHP5 on latest Ubuntu
 ==============
 
 Requirements

@@ -15,3 +15,8 @@ Installation
 Launch Docker container
 --------------
 docker run -d -p 80:80 yougos666/docker-apache
+
+
+This docker  is available for:
+- eZPublish 5.x
+- Prestashop  >1.5.x
